@@ -103,31 +103,8 @@ h1{
     width: 340px;
     height: 252px;
 }
-/* .update{
-    position: relative;
-    bottom: 10%;
-    background-color: #ffa801;
-    width: 100%;
-} */
-.crud{
-    display:flex;
-    /* justify-content: space-between; */
-    gap:20px;
-    position: relative;
-    bottom: 20%;
-    left:25%;
-     
-}
-.update, .create, .delete{
-   color:white;
-   background-color: #ffa801;
-   padding: 10px;
-   cursor: pointer;
-   border-radius: 10px;
 
-}
-.card__info__heading
-{
+.card__heading{
         align-items: center;
         display: flex;
         font-family: 'Wendy One',

@@ -19,7 +19,7 @@
             <div class="navbar__links">
                 <ul>
                     <li><a href="index.html">Ana sayfa</a></li>
-                    <li><a href="menu.html">Menu</a></li>
+                    <li><a href="menu.php">Menu</a></li>
                     <li><a href="#">Hakkımızda</a></li>
                     <li><a href="">İletişim</a></li>
                 </ul>
