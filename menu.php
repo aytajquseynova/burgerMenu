@@ -28,7 +28,7 @@ $menuItems = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 <ul>
                     <li><a href="index.html">Ana sayfa</a></li>
                     <li><a href="#">Menu</a></li>
-                    <li><a href="about.html">Hakkımızda</a></li>
+                    <li><a href="about.php">Hakkımızda</a></li>
                     <li><a href="">İletişim</a></li>
                 </ul>
             </div>
