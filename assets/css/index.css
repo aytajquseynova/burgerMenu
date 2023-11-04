@@ -98,11 +98,11 @@ h1{
 }
 .menu__card{
     box-shadow: 0 2px 10px #444;
+    /* width: 340px; */
 }
-.menu__card__img{
-    width: 340px;
-    height: 252px;
-}
+/* .menu__card__img{
+ 
+} */
 
 .card__heading{
         align-items: center;
